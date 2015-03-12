@@ -1,0 +1,15 @@
+{
+  "name": "mqtt-rfxcom",
+  "version": "1.0.0",
+  "description": "mqtt interface for the RFXCOM rfxtrx 433 radio module",
+  "main": "mqtt-rfxcom.js",
+  "dependencies": {
+    "mqtt": "~0.3.13",
+    "rfxcom": "~0.7.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
